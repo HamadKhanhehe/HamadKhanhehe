@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=+$+whoami?+Hammad+Khan!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - HAMMMAD KHAN SVG">
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5uY2VkY3BqY2VhY2RlZ3B6dWZ5eGx6N2RycTJ6eHpjdGZ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300">
-</div>
-
 **Frontend Developer | Open-Source Enthusiast | Problem Solver**
 
 ## 🛠️ Tech Stack
