@@ -28,11 +28,7 @@
 [[Portfolio](https://portfolio-imhk.netlify.app/)
 
 <div align="center">
-     <img src="https://media.giphy.com/media/LnU9yQksXq9bXr0VIB/giphy.gif" width="300">
-
+<img src="https://i.imgur.com/9pJYHEO.gif" width="150" alt="Anime girl waving">
   <p>✨ ありがとう for visiting! ✨</p>
 </div>
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/anime-image-0186.gif" width="120">
-  <p>☀️ 今日も頑張りましょう!</p>
-</div>
+
