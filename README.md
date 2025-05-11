@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hammad Khan
+# 👋 Hi,
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=+$+whoami?+Hammad+Khan!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - HAMMMAD KHAN SVG">
@@ -29,12 +29,13 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
 
 ## 🏆 Top Repositories
-[[Certificate Generation App](https://github.com/HamadKhanhehe/Certificate-App)
-[[Dev-Dash App](https://github.com/HamadKhanhehe/dev-dash-app)
+[Certificate Generation App](https://github.com/HamadKhanhehe/Certificate-App)
+[Dev-Dash App](https://github.com/HamadKhanhehe/dev-dash-app)
 
 ## 💬 Let's Connect
-[[LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
-[[Portfolio](https://portfolio-imhk.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
+[Portfolio](https://portfolio-imhk.netlify.app/)
+[Email](hamadkhann1010@hotmail.com)
 
 <div align="center">
   <img src="https://media.tenor.com/_c57eQ30AVoAAAAM/anime.gif" alt="Demo"/>
