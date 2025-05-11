@@ -8,14 +8,14 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3776AB?logo=python&logoColor=white)
 
-## 🔥 GitHub Stats
+## 💥 GitHub Stats
 [![Your GitHub Stats](https://github.com/HamadKhanhehe)
 
 ## 🏆 Top Repositories
 [![Repo 1](https://github.com/HamadKhanhehe/Certificate-App)
 [![Repo 2](https://github.com/HamadKhanhehe/dev-dash-app)
 
-## 📫 Let's Connect
+## 💬 Let's Connect
 [![LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
 [![Portfolio](https://portfolio-imhk.netlify.app/)
 
