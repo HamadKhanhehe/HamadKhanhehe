@@ -12,12 +12,11 @@
 [[Your GitHub Stats](https://github.com/HamadKhanhehe)
 
 ## 🏆 Top Repositories
-[[Repo 1](https://github.com/HamadKhanhehe/Certificate-App)
-[[Repo 2](https://github.com/HamadKhanhehe/dev-dash-app)
+[[Certificate Generation App](https://github.com/HamadKhanhehe/Certificate-App)
+[[Dev-Dash App](https://github.com/HamadKhanhehe/dev-dash-app)
 
 ## 💬 Let's Connect
 [[LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
 [[Portfolio](https://portfolio-imhk.netlify.app/)
 
-## 🎥 Project Demo  
-[Project Demo](https://media.giphy.com/media/your-gif-link.gif)
+
