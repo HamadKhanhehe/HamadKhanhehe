@@ -28,9 +28,6 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
 
-## 💥 GitHub Stats
-[[Your GitHub Stats](https://github.com/HamadKhanhehe)
-
 ## 🏆 Top Repositories
 [[Certificate Generation App](https://github.com/HamadKhanhehe/Certificate-App)
 [[Dev-Dash App](https://github.com/HamadKhanhehe/dev-dash-app)
@@ -40,7 +37,7 @@
 [[Portfolio](https://portfolio-imhk.netlify.app/)
 
 <div align="center">
-<img src="https://media.tenor.com/ILT5-vuNzB8AAAAe/anime-anime-wave-bye.png" width="150" alt="Anime girl waving">
+![Demo GIF](https://media.tenor.com/_c57eQ30AVoAAAAM/anime.gif) 
   <p>✨ ありがとう for visiting! ✨</p>
 </div>
 
