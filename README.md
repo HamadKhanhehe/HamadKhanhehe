@@ -27,4 +27,8 @@
 [[LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
 [[Portfolio](https://portfolio-imhk.netlify.app/)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/J3TqVrQw91XeY/giphy.gif" width="150">
+  <p>✨ ありがとう for visiting! ✨</p>
+</div>
 
