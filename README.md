@@ -37,7 +37,7 @@
 [[Portfolio](https://portfolio-imhk.netlify.app/)
 
 <div align="center">
-  <img src="https://media.tenor.com/_c57eQ30AVoAAAAM/anime.gif" alt="Demo" width="600"/>
+  <img src="https://media.tenor.com/_c57eQ30AVoAAAAM/anime.gif" alt="Demo"/>
   <p>✨ ありがとう for visiting! ✨</p>
 </div>
 
