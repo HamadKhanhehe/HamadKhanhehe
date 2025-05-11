@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Hammad Khan
 
-<!--
-**HamadKhanhehe/HamadKhanhehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer | Open-Source Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-Typescript-3776AB?logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 GitHub Stats
+[![Your GitHub Stats](https://github.com/HamadKhanhehe)
+
+## 🏆 Top Repositories
+[![Repo 1](https://github.com/HamadKhanhehe/Certificate-App)
+[![Repo 2](https://github.com/HamadKhanhehe/dev-dash-app)
+
+## 📫 Let's Connect
+[![LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
+[![Portfolio](https://portfolio-imhk.netlify.app/)
+
+## 🎥 Project Demo  
+![Project Demo](https://media.giphy.com/media/your-gif-link.gif)
