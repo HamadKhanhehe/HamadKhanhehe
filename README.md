@@ -29,13 +29,13 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
 
 ## 🏆 Top Repositories
-![Certificate Generation App](https://github.com/HamadKhanhehe/Certificate-App)
-![Dev-Dash App](https://github.com/HamadKhanhehe/dev-dash-app)
+-[Certificate Generation App](https://github.com/HamadKhanhehe/Certificate-App)
+-[Dev-Dash App](https://github.com/HamadKhanhehe/dev-dash-app)
 
 ## 💬 Let's Connect
-![LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
-![Portfolio](https://portfolio-imhk.netlify.app/)
-![Email](hamadkhann1010@hotmail.com)
+-[LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
+-[Portfolio](https://portfolio-imhk.netlify.app/)
+-[Email](hamadkhann1010@hotmail.com)
 
 <div align="center">
   <img src="https://media.tenor.com/_c57eQ30AVoAAAAM/anime.gif" alt="Demo"/>
