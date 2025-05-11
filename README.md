@@ -33,9 +33,9 @@
 -[Dev-Dash App](https://github.com/HamadKhanhehe/dev-dash-app)
 
 ## 💬 Let's Connect
--[LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
--[Portfolio](https://portfolio-imhk.netlify.app/)
--[Email](hamadkhann1010@hotmail.com)
+<p>[LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)</p>
+<p>[Portfolio](https://portfolio-imhk.netlify.app/)</p>
+<p>[Email](hamadkhann1010@hotmail.com)</p>
 
 <div align="center">
   <img src="https://media.tenor.com/_c57eQ30AVoAAAAM/anime.gif" alt="Demo"/>
