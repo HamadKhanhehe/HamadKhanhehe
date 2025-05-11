@@ -36,8 +36,8 @@
 [[LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
 [[Portfolio](https://portfolio-imhk.netlify.app/)
 
-![Demo GIF](https://media.tenor.com/_c57eQ30AVoAAAAM/anime.gif) 
 <div align="center">
+  <img src="https://media.tenor.com/_c57eQ30AVoAAAAM/anime.gif" alt="Demo" width="600"/>
   <p>✨ ありがとう for visiting! ✨</p>
 </div>
 
