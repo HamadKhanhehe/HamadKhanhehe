@@ -32,4 +32,7 @@
 
   <p>✨ ありがとう for visiting! ✨</p>
 </div>
-
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/anime-image-0186.gif" width="120">
+  <p>☀️ 今日も頑張りましょう!</p>
+</div>
