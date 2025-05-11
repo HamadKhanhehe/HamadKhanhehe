@@ -9,15 +9,15 @@
 ![TypeScript](https://img.shields.io/badge/-Typescript-3776AB?logo=python&logoColor=white)
 
 ## 💥 GitHub Stats
-[![Your GitHub Stats](https://github.com/HamadKhanhehe)
+[[Your GitHub Stats](https://github.com/HamadKhanhehe)
 
 ## 🏆 Top Repositories
-[![Repo 1](https://github.com/HamadKhanhehe/Certificate-App)
-[![Repo 2](https://github.com/HamadKhanhehe/dev-dash-app)
+[[Repo 1](https://github.com/HamadKhanhehe/Certificate-App)
+[[Repo 2](https://github.com/HamadKhanhehe/dev-dash-app)
 
 ## 💬 Let's Connect
-[![LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
-[![Portfolio](https://portfolio-imhk.netlify.app/)
+[[LinkedIn](https://www.linkedin.com/in/hamad-khan-b8646426a/)
+[[Portfolio](https://portfolio-imhk.netlify.app/)
 
 ## 🎥 Project Demo  
-![Project Demo](https://media.giphy.com/media/your-gif-link.gif)
+[Project Demo](https://media.giphy.com/media/your-gif-link.gif)
